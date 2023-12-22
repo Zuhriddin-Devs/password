@@ -1,0 +1,1 @@
+const request = prompt('Password: ********');
